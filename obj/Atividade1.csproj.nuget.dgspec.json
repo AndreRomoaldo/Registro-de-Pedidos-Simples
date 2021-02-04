@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\Desktop\\Atividade1\\Atividade1.csproj": {}
+    "C:\\Users\\Andre\\Desktop\\Jogos\\ProjetoEu\\SENAC\\Modulo1Trabalhos\\Mes 3\\Atividade1\\Atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\Desktop\\Atividade1\\Atividade1.csproj": {
+    "C:\\Users\\Andre\\Desktop\\Jogos\\ProjetoEu\\SENAC\\Modulo1Trabalhos\\Mes 3\\Atividade1\\Atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\Desktop\\Atividade1\\Atividade1.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\Desktop\\Jogos\\ProjetoEu\\SENAC\\Modulo1Trabalhos\\Mes 3\\Atividade1\\Atividade1.csproj",
         "projectName": "Atividade1",
-        "projectPath": "C:\\Users\\Andre\\Desktop\\Atividade1\\Atividade1.csproj",
+        "projectPath": "C:\\Users\\Andre\\Desktop\\Jogos\\ProjetoEu\\SENAC\\Modulo1Trabalhos\\Mes 3\\Atividade1\\Atividade1.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\Desktop\\Atividade1\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\Desktop\\Jogos\\ProjetoEu\\SENAC\\Modulo1Trabalhos\\Mes 3\\Atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
